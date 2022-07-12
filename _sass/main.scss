@@ -2,7 +2,6 @@
 body {
   font-family: 'Helvetica Neue', sans-serif;
   font-weight: 300;
-  background-color: #b3b3b3;
   background: url('../images/pexels-tara-winstead-8385408.jpg');
   background-repeat: no-repeat;
   background-size: cover;
@@ -23,7 +22,6 @@ nav ul {
 }
 nav ul li {
   display: inline-block;
-  float: left;
 }
 nav ul li:not(:first-child) {
   margin-left: 25px;
