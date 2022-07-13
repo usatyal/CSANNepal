@@ -6,4 +6,4 @@ title: Home
 
 # *(CSAN)*
 
-*Nala Road, Tathali-2 Bhaktapur*
+*Bhaktapur Nepal*
