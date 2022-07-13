@@ -45,17 +45,13 @@ treatment.
 ## ACTIVITIES
 - In coordination with Kathmandu Cancer Center (KCC), CSAN arranges for
 financial support for cancer treatment who can’t afford the treatment.  
-- CSAN is supporting KCC to develop two modular operation theaters.
-- CSAN is coordinating towards procuring various equipment for the operation
-theater including OT Light and OT Tables.
-- CSAN has recently completed the infrastructure to establish mammograms at
-Kathmandu Cancer Center that would be used for screening of Breast cancer in
+- CSAN has is rising awareness in public regarding screening of Breast cancer in
 the community.
 - OPD based cancer screening services: Pap smear/VIA test for cervical cancer,
 Clinical breast exam, Colon cancer screening etc.
 - Community based Cancer screening e.g., VIA test for Cervical cancer in different
 districts.
-- Orientation training to the Primary Health care workers for Cancer Prevention.
+- Orientation training to the Primary Health care workers for Cancer prevention.
 - Training to the School teachers for Tobacco control.
 - Training to the Nurses on Cervical cancer and Breast cancer screening.
 - Formation of Cancer awareness volunteer team in different districts.
