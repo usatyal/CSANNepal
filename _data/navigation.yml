@@ -4,5 +4,11 @@
 - name: About
   link: /about.html
 
+- Cause
+  link: /cause.html
+
 - name: Contact
   link: /contact.html
+
+- name: Donate
+  link: /donate.html
